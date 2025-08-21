@@ -36,7 +36,7 @@ We’d love to hear from you!
 
 ## 🌐 Live Demo
 
-Visit the deployed site: [Contact Our Company on GitHub Pages]([https://yourusername.github.io/contact-company/](https://buildable-task-1.netlify.app/))  
+Visit the deployed site: [Contact Our Company on GitHub Pages][(https://yourusername.github.io/contact-company/)](https://buildable-task-1.netlify.app/)
 *(Replace with your actual deployed link once uploaded to GitHub or Netlify)*  
 
 ---
@@ -49,4 +49,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Thank you for checking out the **Contact Our Company Website**!  
 We hope this simple template helps you build your own contact pages with ease.  
+
 
